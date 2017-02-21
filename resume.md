@@ -1,8 +1,7 @@
 # **Simon Durkin**
 
 2600 JFK Blvd, 1E, Jersey City, NJ 07306 || 201-743-8202 || sidurkin@gmail.com
-
-**Customer Experience Professional accomplished in building smart CRMs and communication tools providing answers that preempt questions, resources that guide success, and interactions that expedite solutions.**
+#### Customer Experience Professional accomplished in building smart CRMs and communication tools providing answers that preempt questions, resources that guide success, and interactions that expedite solutions.
 
 A big-picture thinker able to visualize complex problems, reconcile contrasting perspectives, and devise dynamic solutions. Constantly striving for efficiency and practicality, favoring function over form, simplicity over elaboration, and many small steps over one giant leap.
 
