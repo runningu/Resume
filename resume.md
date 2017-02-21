@@ -8,7 +8,7 @@ A big-picture thinker able to visualize complex problems, reconcile contrasting 
 
 Engaging and capable with proven success in a variety of organizations and environments, including startups and non-profits. Experienced in spearheading customer support initiatives for product launches, rebranding programs, and major events.
 ## Skills and Experience
-### CRM Implementation
+#### CRM IMPLEMENTATION
 *   **Administrator** – Streamlined case routing and workflows in CRMs, and refined agent UI to significantly lower handle times.
 *   **Developer** – Built support portals, apps, and widgets informing customers and giving access to real-time communications.
 *   **Content Creator** – Authored knowledgebase articles, scripted response macros, and composed email templates.
@@ -16,13 +16,13 @@ Engaging and capable with proven success in a variety of organizations and envir
 *   **API Implementation** – Connected CRMs to ancillary communication tools and enterprise data platforms.
 *   **Tech Skills** – HTML / CSS / JS / jQuery / Adobe CS / MS Office.
 
-#### Customer Service
+#### CUSTOMER SERVICE
 * **Consumer Education** – Produced user guides and video tutorials, conducted webinars and delivered on-site training.
 * **Agent Training** – Created service manuals and led online / in-person training on CRM use and CX best practices.
 * **Team Management** – Supervised and mentored diverse agent teams across sports, education, and publishing.
 *   **Sales Support** – Collaborated with sales reps to ensure new customer activation and foster business retention.
 
-#### Business and Strategy
+#### BUSINESS AND STRATEGY
 *   **Research and Analysis** – Modelled use cases and determined business / functional requirements for development.
 *   **Project Management** – Coordinated large-scale projects involving dispersed business / tech teams and outsourced providers.
 *   **Branding and Marketing** – Championed unified brand identities, aesthetics and voice across customer service channels.
