@@ -62,7 +62,7 @@ Commissioned and integrated of outsourced call center, data analysis and reporti
 
 #### JOHN WILEY & SONS, Hoboken, NJ
 * **Technical Support Supervisor** (Jul 2004 – Feb 2008)  
-Managed Tier 3 customer support, created user guides and video tutorials, CSR training, developer liaison.
+Managed Tier 3 customer support, created user resources, CSR training, developer liaison for online learning system.
 * **Senior Editorial Assistant** (Aug 2002 – Jul 2004)  
 Assisted acquisition and editorial development of engineering textbooks, supported sales / marketing teams at conferences.
 
