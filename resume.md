@@ -1,11 +1,13 @@
-# **Simon Durkin**
+# Simon Durkin
 
 2600 JFK Blvd, 1E, Jersey City, NJ 07306 || 201-743-8202 || sidurkin@gmail.com
-### Customer Experience Professional accomplished in building smart CRMs and communication tools providing answers that preempt questions, resources that guide success, and interactions that expedite solutions.
+
+#### Customer Experience Professional accomplished in building smart CRMs and communication tools providing answers that preempt questions, resources that guide success, and interactions that expedite solutions.
 
 A big-picture thinker able to visualize complex problems, reconcile contrasting perspectives, and devise dynamic solutions. Constantly striving for efficiency and practicality, favoring function over form, simplicity over elaboration, and many small steps over one giant leap.
 
 Engaging and capable with proven success in a variety of organizations and environments, including startups and non-profits. Experienced in spearheading customer support initiatives for product launches, rebranding programs, and major events.
+
 ## Skills and Experience
 #### CRM IMPLEMENTATION
 *   **Administrator** – Streamlined case routing and workflows in CRMs, and refined agent UI to significantly lower handle times.
@@ -39,47 +41,51 @@ Engaging and capable with proven success in a variety of organizations and envir
 
 #### NEW YORK ROAD RUNNERS, New York, NY
 
-  * **Runner Services Manager** (Aug 2014 – Nov 2016)
-    Developer/admin of highly-customized CRM (Desk.com), wrote FAQs and user guides, led chat, VOIP and API implementations.
-  * **Part-Time Running Coach** (May 2014 – Nov 2016)
-    Trained 2,000+ participants in Team for Kids charity marathon program, annually raising $6MM+ for youth running.
-  * **Youth Events Manager** (Oct 2011 – Aug 2014)
-    Organized and operated 60+ youth track & field events serving 200+ NYC public schools and 15,000+ schoolkids.
+* **Runner Services Manager** (Aug 2014 – Nov 2016)  
+Developer/admin of highly-customized CRM (Desk.com), wrote FAQs and user guides, led chat, VOIP and API implementations.
+* **Part-Time Running Coach** (May 2014 – Nov 2016)  
+Trained 2,000+ participants in Team for Kids charity marathon program, annually raising $6MM+ for youth running.
+* **Youth Events Manager** (Oct 2011 – Aug 2014)  
+Organized and operated 60+ youth track & field events serving 200+ NYC public schools and 15,000+ schoolkids.
+
+#### MILE HIGH RUN CLUB, New York, NY
+* **Running Class Instructor** (Jan 2015 –Dec 2015)  
+Devised and led treadmill-based fitness classes, coached outdoor workouts, and delivered seminars on running topics.   
 
 #### SELF-EMPLOYED, New York, NY
-  * **Web Developer and UX Lead** (Sep 2009 – Oct 2011)
-    Designed, built and deployed websites for school running programs, managed usability and testing for fundraising platform.
+* **Web Developer and UX Lead** (Sep 2009 – Oct 2011)  
+Designed, built and deployed websites for school running programs, managed usability and testing for fundraising platform.
 
 #### COURSESMART, San Mateo, CA
-  * **Customer Service Manager** (Mar 2008 – Mar 2009)
-    Commissioned and integrated of outsourced call center, data analysis and reporting, developer-level issue resolution.
+* **Customer Service Manager** (Mar 2008 – Mar 2009)  
+Commissioned and integrated of outsourced call center, data analysis and reporting, developer-level issue resolution.
 
 #### JOHN WILEY & SONS, Hoboken, NJ
-  * **Technical Support Supervisor** (Jul 2004 – Feb 2008)
-    Managed Tier 3 customer support, created user guides and video tutorials, CSR training, developer liaison.
-  * **Senior Editorial Assistant** (Aug 2002 – Jul 2004)
-    Assisted acquisition and editorial development of engineering textbooks, supported sales / marketing teams at conferences.
+* **Technical Support Supervisor** (Jul 2004 – Feb 2008)  
+Managed Tier 3 customer support, created user guides and video tutorials, CSR training, developer liaison.
+* **Senior Editorial Assistant** (Aug 2002 – Jul 2004)  
+Assisted acquisition and editorial development of engineering textbooks, supported sales / marketing teams at conferences.
 
 #### KELLY SERVICES, Lyndhurst, NJ
-  * **Temporary Administration Assistant** (Dec 2001 – Jul 2002)
-    Sales and admin support for a variety of organizations, including Samsung Electronics and Bank One.
+* **Temporary Administration Assistant** (Dec 2001 – Jul 2002)  
+Sales and admin support for a variety of organizations, including Samsung Electronics and Bank One.
 
 #### UNEMPLOYED, Kearny, NJ
-  * **Awaiting U.S. Work Visa** (Mar 2001 – Dec 2001)
+* **Awaiting U.S. Work Visa** (Mar 2001 – Dec 2001)
 
 #### SELF-EMPLOYED, Manchester, UK
-  * **Local Authority Search Agent** (Oct 1999 – Mar 2001)
-    Established a partnership with leading regional real estate broker providing property research for purchase transactions.
+* **Local Authority Search Agent** (Oct 1999 – Mar 2001)  
+Established a partnership with leading regional real estate broker providing property research for purchase transactions.
 
 #### PROPERTY SEARCH AGENCY, London, UK
-  * **Local Authority Search Agent** (Jul 1995 – Oct 1999)
-    Conducted title searches and legal research at local authorities throughout England and Wales.
+* **Local Authority Search Agent** (Jul 1995 – Oct 1999)  
+Conducted title searches and legal research at local authorities throughout England and Wales.
 
 #### VIRGIN MEGASTORE, London, UK
-  * **Assistant Department Manager** (Oct 1993 – Jul 1995)
-   Supervised 20-person team responsible for inventory and merchandising at Virgin’s flagship store.
+* **Assistant Department Manager** (Oct 1993 – Jul 1995)  
+Supervised 20-person team responsible for inventory and merchandising at Virgin’s flagship store.
 
 ## Education
 
 #### UNIVERSITY OF BRISTOL, Bristol, UK
-  * **Avionic Systems** (Sep 1992 – Sep 1993)
+* **Avionic Systems** (Sep 1992 – Sep 1993)
